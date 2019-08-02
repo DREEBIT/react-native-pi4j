@@ -1,5 +1,5 @@
 
-# react-native-react-native-pi4j
+# react-native-pi4j
 
 ## Getting started
 
