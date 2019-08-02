@@ -1,0 +1,19 @@
+
+{
+  "name": "react-native-pi4j",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "DREEBIT GmbH",
+  "license": "UNLICENSED",
+  "repository": "https://github.com/DREEBIT/react-native-pi4j",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+  }
+}
